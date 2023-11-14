@@ -1,8 +1,11 @@
-# React + Vite
+# Simple Task List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Visit the Live Website](https://magenta-raindrop-27598f.netlify.app/)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### App Features : 
+- You can add your daily task here with a description
+- It will add number of each task
+- You can delete task after completing
+
+#### You can visit my portfolio website : [ProWebly](https://prowebly.com/)
