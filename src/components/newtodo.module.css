@@ -1,0 +1,41 @@
+.title_box input {
+    width: 100%;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    padding: 0px 15px;
+    font-size: 18px;
+}
+.desc_box textarea {
+    width: 100%;
+    height: 70px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    padding: 10px 15px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+.submit_btn {
+    text-align: right;
+}
+.submit_btn button {
+    width: 150px;
+    height: 50px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 0.3s all;
+    border: solid 2px tomato;
+    color: white;
+    background-color: tomato;
+    margin-top: 10px;
+}
+.submit_btn button:hover {
+    background-color: transparent;
+    color: tomato;
+}
