@@ -3,6 +3,7 @@ import Todos from './Todos'
 import NewTodo from './NewTodo'
 
 import style from "./home.module.css"
+import Brand from './brand';
 
 
 export default function Home() {
@@ -23,6 +24,7 @@ export default function Home() {
             <NewTodo onAddTodo={onAddTodo} />
             <Todos handleRemove={handleRemove} allTodo={allTodo} />
         </div>
+        <Brand />
     </div>
   )
 }

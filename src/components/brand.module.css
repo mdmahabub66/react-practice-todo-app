@@ -1,0 +1,14 @@
+.brand {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    background-color: tomato;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.brand h2 {
+    font-size: 22px;
+}

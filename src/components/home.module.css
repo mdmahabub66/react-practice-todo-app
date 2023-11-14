@@ -4,6 +4,7 @@
     display: flex;
     justify-content: center;
     align-items: start;
+    position: relative;
 }
 .content {
     margin-top: 50px;
