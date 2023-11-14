@@ -3,7 +3,7 @@
     right: 20px;
     bottom: 20px;
     background-color: tomato;
-    padding: 10px 30px;
+    padding: 10px 7px 10px 12px;
     border-radius: 10px;
     color: white;
     cursor: pointer;
@@ -11,4 +11,15 @@
 }
 .brand h2 {
     font-size: 22px;
+}
+.brand h2 a {
+    color: black;
+    background-color: white;
+    padding: 3px 12px;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+.brand h2 a:hover {
+    background-color: tomato;
 }
